@@ -1,6 +1,6 @@
-# Soil Model User Guide
+# GeoSketch User Guide
 
-Version 1.0.0. A static tutorial website for the Soil Model Windows desktop application.
+Version 1.0.0. A static tutorial website for the GeoSketch Windows desktop application.
 
 Each workflow chapter includes complete original tutorial pages, including screenshots and annotations. Click a page to enlarge it and zoom up to 300%.
 
