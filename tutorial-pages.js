@@ -55,9 +55,11 @@ const tutorialPages = {
     },
     {
       "page": 9,
-      "image": "assets/tutorial-pages/page-09.png",
+      "image": "assets/tutorial-pages/page-09.png?v=f2f4be1ec686",
       "width": 2880,
-      "height": 1620
+      "height": 1620,
+      "source": "Page 9 from Soil Model - WSP Tutorial Flow.pdf",
+      "source_sha256": "f2f4be1ec68690cabb7566fd6632c7c87cb495e68e12b4805a2e53fe3bb5bb72"
     },
     {
       "page": 10,
